@@ -1,0 +1,17 @@
+.ChatFriendComponentFriend{
+	color: white;
+	padding: 0;
+	margin: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.ChatFriendComponentPicture {
+	height: 50px;
+	width: 50px;
+	margin-right: 5px;
+	background-color: white;
+	display: inline-block;
+
+}
+.ChatFriendComponentName{
+}

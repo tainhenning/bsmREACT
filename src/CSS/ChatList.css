@@ -1,0 +1,16 @@
+.ChatListMainDiv{
+	background-color: #0d0c0c;
+	position: fixed;
+	width: 250px;
+	color: white;
+	text-align: left;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	text-align: left;
+}
+.ChatListTitle{
+	color: white;
+	text-align: center;
+}
